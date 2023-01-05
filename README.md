@@ -6,6 +6,7 @@
 - Team: Yummy Donuts from [Data Donut](https://discord.gg/7fkzYbDxAh)
   - [Tina Yu](https://github.com/TinaHTYu)
   - [Zacks Shen](https://github.com/ZacksAmber)
+- [Metadata](https://docs.google.com/spreadsheets/d/1a9Xujf0RRGkbuMQxRL378L0dNUcwc2bz-GVxzeTmsT4)
 
 ## Running Instructions
 
