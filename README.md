@@ -23,42 +23,43 @@
 
 ![General Machine Learning Flowchart](https://github.com/ZacksAmber/Flowcharts/blob/main/general_machine_learning.svg)
 
+
 ### 0. Initial Analysis
 
-<input type="checkbox" checked> Metadata
-<input type="checkbox"> Data Type -> Data Type Transformation
-<input type="checkbox"> Data Summary
+- [x] Metadata
+- [ ] Data Type -> Data Type Transformation
+- [ ] Data Summary
 
 ---
 
 ### 1. ETL Pipeline
 
-<input type="checkbox"> Extract
-<input type="checkbox"> Transformation (Data Type)
-<input type="checkbox"> Loading
+- [ ] Extract
+- [ ] Transformation (Data Type)
+- [ ] Loading
 
 ---
 
 ### 2. Exploratory Data Analysis
 
-<input type="checkbox"> Feature Selection (Business / Data Understanding)
-<input type="checkbox"> Data Cleaning
-<input type="checkbox"> Standarization / Normalization
-<input type="checkbox"> Data Visualizations
+- [ ] Feature Selection (Business / Data Understanding)
+- [ ] Data Cleaning
+- [ ] Standarization / Normalization
+- [ ] Data Visualizations
 
 ---
 
 ### 3. Feature Engineering
 
-<input type="checkbox"> Feature Selection (Correlation Coefficient, Mutual Information)
-<input type="checkbox"> ML Algorithms Selection
-<input type="checkbox"> ML Pipelines (Imputation, Encoding)
+- [ ] Feature Selection (Correlation Coefficient, Mutual Information)
+- [ ] ML Algorithms Selection
+- [ ] ML Pipelines (Imputation, Encoding)
 
 ---
 
 ### 4. Machine Learning
 
-<input type="checkbox"> Baseline / Benchmark
-<input type="checkbox"> Tuning
-<input type="checkbox"> Training
-<input type="checkbox"> Evaluation
+- [ ] Baseline / Benchmark
+- [ ] Tuning
+- [ ] Training
+- [ ] Evaluation
