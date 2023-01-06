@@ -3,6 +3,7 @@
 ## Intro
 
 - Kaggle Project: [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview). Predict sales prices and practice feature engineering, RFs, and gradient boosting.
+- [GitHub](https://github.com/ZacksAmber/kaggle-house-prices-advanced-regression-techniques)
 - Team: Yummy Donuts from [Data Donut](https://discord.gg/7fkzYbDxAh)
   - [Tina Yu](https://github.com/TinaHTYu)
   - [Zacks Shen](https://github.com/ZacksAmber)
@@ -27,7 +28,7 @@
 ### 0. Initial Analysis
 
 - [x] Metadata
-- [ ] Data Type -> Data Type Transformation
+- [ ] Data Type -> Casting
 - [ ] Data Summary
 
 ---
@@ -35,7 +36,7 @@
 ### 1. ETL Pipeline
 
 - [ ] Extract
-- [ ] Transformation (Data Type)
+- [ ] Casting
 - [ ] Loading
 
 ---
