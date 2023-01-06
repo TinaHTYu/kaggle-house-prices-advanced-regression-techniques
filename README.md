@@ -28,7 +28,8 @@
 ### 0. Initial Analysis
 
 - [x] Metadata
-- [ ] Data Type -> Casting
+- [x] Data Type Analysis
+- [ ] Casting solution: Distribution of ordinal variables
 - [ ] Data Summary
 
 ---
